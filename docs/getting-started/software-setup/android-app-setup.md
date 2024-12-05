@@ -12,5 +12,5 @@ After uploading the **Master Code** in the MYOSA motherboard download the MYOSA 
 
 ## Watch the Tutorial
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/bt_odbj4FZA?si=sOQ9BZL39QMCQGae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/bt_odbj4FZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
